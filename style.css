@@ -1,0 +1,19 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Montserrat", sans-serif;
+}
+
+.header {
+  background-color: #000770;
+  height: 10vh;
+  margin-top: 5%;
+}
+#header-title {
+  background-color: #ffff;
+  width: 40%;
+  height: 100%;
+  margin: auto;
+  text-align: center;
+}
